@@ -6,15 +6,15 @@ Here is the information related to this fork
 Key Bindings 
 -------------
 
-| Commands                  | Action                                                     |   
-|:--------------------------|:-----------------------------------------------------------| 
-| `Win/Command+Enter`       | open the terminal                                          |
-| `Win/Command+Shift+c`     | close application currently focused on                     |
-| `Win/Command+NUM`         | changes tags (where NUM is any number)                     |
-| `Win/Command+Shift+NUM`   | move application to tag                                    | 
-| `Win/Command+j`           | changes focus to application on the bottom                 |
-| `Win/Command+k`           | changes focus to application on the top                    |
-| `Win/Command+Enter`       | move application to main focus                             |
+| Commands                  | Action                                                       |   
+|:--------------------------|:-------------------------------------------------------------| 
+| `Win/Command+Enter`       | open the terminal                                            |
+| `Win/Command+Shift+c`     | close application currently focused on                       |
+| `Win/Command+NUM`         | changes tags (where NUM is any number) (do not use tags 2/3) |
+| `Win/Command+Shift+NUM`   | move application to tag                                      | 
+| `Win/Command+j`           | changes focus to application on the bottom                   |
+| `Win/Command+k`           | changes focus to application on the top                      |
+| `Win/Command+Enter`       | move application to main focus                               |
 
 Configuration
 -------------
