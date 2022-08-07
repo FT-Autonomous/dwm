@@ -15,6 +15,10 @@ Key Bindings
 | `Alt+j`           | changes focus to application on the bottom                   |
 | `Alt+k`           | changes focus to application on the top                      |
 | `Alt+Enter`       | move application to main focus                               |
+| `Alt+t`           | Tiled layout mode (on by default)                            |
+| `Alt+m`           | Monocle layout mode (basically full screen)                  |
+| `Alt+f`           | Floating layout mode                                         |
+| `Alt+Space`       | Switch between the two latest layouts used                   |
 
 Configuration
 -------------
